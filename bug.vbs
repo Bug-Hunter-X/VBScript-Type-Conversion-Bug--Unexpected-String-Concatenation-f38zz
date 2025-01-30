@@ -1,0 +1,1 @@
+Function that returns the wrong value due to incorrect data type conversion.  This is especially tricky in VBScript because of its loose typing.
