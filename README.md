@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in VBScript related to implicit type conversion. The `calculateSum` function, in `bug.vbs`, intends to return a numerical sum. However, due to the concatenation of a string and a number, the result becomes a string.  The corrected version in `bugSolution.vbs` explicitly handles type conversions to ensure accurate results.
